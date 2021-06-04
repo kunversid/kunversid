@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**kunversid/kunversid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Kunver, an IT student and an aspiring engineer. I ❤️ working with JavaScript and Java.
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=your-github-kunversid&color=dc143c)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Kunver's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunversid&show_icons=true&theme=radical)
+
+
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning NODE.JS
+- 🤔 I’m looking for help with Solidity
+- 📫 How to reach me: kunversiddharth@outlook.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunversid&layout=compact)](https://github.com/kunversid/github-readme-stats)
+
+
+
